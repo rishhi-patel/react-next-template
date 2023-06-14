@@ -1,0 +1,20 @@
+/*======== Table of Css Content ==========*/
+/* Typography */
+/* variables */
+/* Global style */
+
+/* 
+=========================
+=========================
+*/
+
+// Sass Global
+@import "../public/scss/main/_global.scss";
+
+// Pages
+@import "../public/scss/pages/_banner-footer.scss";
+@import "../public/scss/pages/_section.scss";
+@import "../public/scss/pages/_preloader.scss";
+
+// Responsive Area
+@import "../public/scss/main/_responsive.scss";

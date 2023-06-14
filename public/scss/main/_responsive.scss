@@ -1,0 +1,1234 @@
+// Responsive Area
+@media (max-width: 2021px) {
+  .account-feature.home-loan .img-area img {
+    width: 65%;
+  }
+  .account-feature.home-loan .img-area {
+    right: -118px;
+    bottom: 25%;
+  }
+}
+
+@media (max-width: 1799px) {
+  .footer-section .img-area .right {
+    right: 0;
+  }
+  .footer-section .img-area img {
+    width: 10%;
+  }
+  .account-feature.home-loan .img-area img {
+    display: none;
+  }
+  .card-feature .overlay {
+    background-image: unset;
+  }
+  .loan-calculation .img-area {
+    width: 20%;
+  }
+}
+
+@media (max-width: 1599px) {
+  .footer-section .img-area {
+    display: none;
+  }
+  .banner-section.product .overlay {
+    background-size: 30%;
+  }
+  .banner-section.educations-loan .overlay {
+    background-position: right 70px bottom;
+  }
+}
+
+@media (max-width: 1399px) {
+  .banner-section .overlay {
+    background-size: 45%;
+  }
+  .card-section {
+    background-size: 60%;
+  }
+  .testimonials .slick-arrow.slick-prev {
+    left: calc(58% - 150px);
+  }
+  .testimonials .slick-arrow.slick-next {
+    right: calc(44% - 50px);
+  }
+  .testimonials .section-dots {
+    left: calc(57% - 93px);
+  }
+  .latest-articles .blog-item .content .item {
+    margin-right: 5px;
+    padding-right: 5px;
+  }
+  .latest-articles .blog-item .content .item .icon {
+    margin-right: 5px;
+  }
+  .about-section .count-content {
+    padding: 30px 15px;
+  }
+  .map-section .map-area .element.pos-1 {
+    top: 20%;
+    left: 5%;
+  }
+  .map-section .map-area .element.pos-3 {
+    bottom: 30%;
+    left: 40%;
+  }
+  .more-feature::before {
+    width: 100%;
+    left: 0;
+  }
+  .banner-section.account-details .overlay {
+    background-position: right 0 bottom;
+    background-size: 25%;
+  }
+  .business-loan-section .img-area {
+    display: none;
+  }
+  .business-loan-section .main-content form .range-amount input {
+    // width: 20%;
+    width: 100%;
+  }
+  .loan-calculation .img-area {
+    display: none;
+  }
+  .banner-section.educations-loan .overlay {
+    background-size: 40%;
+  }
+  .banner-section.terms .overlay {
+    background-size: 30%;
+  }
+  .business-loan-section.personal-loan .nav-item .nav-btn {
+    padding: 15px;
+  }
+  .how-it-works::before {
+    width: 100%;
+    left: 0;
+  }
+  .blog-single .img-area-top img {
+    max-width: 125%;
+  }
+  .sign-in-up {
+    background-size: 35%;
+  }
+}
+
+@media (max-width: 1199px) {
+  h1,
+  h1 > a {
+    font-size: 57px;
+    line-height: 68.4px;
+  }
+  h2,
+  h2 > a {
+    font-size: 43px;
+    line-height: 51.6px;
+  }
+  .banner-section .overlay .banner-content {
+    padding: 270px 0 210px;
+  }
+  .banner-section.inner-banner .overlay .banner-content {
+    padding: 215px 0 100px;
+  }
+  .testimonials .slick-arrow.slick-next {
+    right: calc(30% - 50px);
+  }
+  .testimonials .slick-arrow.slick-prev {
+    left: calc(69% - 150px);
+  }
+  .testimonials .section-dots {
+    left: calc(69% - 93px);
+  }
+  .testimonials .section-dots {
+    bottom: 70px;
+  }
+  .testimonials .slick-arrow {
+    bottom: 60px;
+  }
+  .latest-articles .blog-item .content .info {
+    display: grid;
+    margin-bottom: 5px;
+  }
+  .latest-articles .blog-item .content .item {
+    margin-bottom: 10px;
+  }
+  .footer-section .footer-box {
+    margin-bottom: 40px;
+  }
+  .footer-section .cus-mar {
+    margin-bottom: -50px;
+  }
+  .about-section {
+    background-image: unset;
+  }
+  .latest-articles .blog-item .content .info {
+    display: flex;
+  }
+  .map-section .map-area .element.pos-3 {
+    left: 35%;
+  }
+  .map-section .map-area .element .details:after {
+    bottom: -15px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 15px solid var(--body-color);
+  }
+  .map-section .map-area .element .details {
+    padding: 5px 15px;
+    margin-bottom: 20px;
+  }
+  .banner-section.career-single .overlay {
+    background-size: 30%;
+  }
+  .faqs-section.account::before {
+    width: 100%;
+    left: 0;
+  }
+  .how-works .nav-link .left-side::before {
+    left: calc(50% - -5px);
+  }
+  .how-works .nav-link.active .row {
+    margin-bottom: 35px;
+  }
+  .banner-section.card-banner .overlay {
+    background-size: 30%;
+  }
+  .card-feature .overlay .slick-arrow.slick-next {
+    left: calc(26% - -12px);
+  }
+  .banner-section.car-loans .overlay {
+    background-position-y: bottom;
+  }
+  .banner-section.business-loan .overlay {
+    background-size: 30%;
+  }
+  .business-loan-section .main-content form .range-amount input {
+    // width: 25%;
+    width: 100%;
+  }
+  .business-loan-section .main-content .tab-content {
+    margin-bottom: 30px;
+  }
+  .business-loan-section .section-header .top-para {
+    width: 100%;
+  }
+  .counter-section .single-box {
+    padding: 30px 10px;
+  }
+  .banner-section.home-loan .overlay {
+    background-position: right 60px bottom;
+    background-size: 30%;
+  }
+  .banner-section.home-loan .overlay {
+    background-image: unset;
+  }
+  .banner-section.personal-loan .overlay {
+    background-position: right 80px bottom;
+    background-size: 30%;
+  }
+  .business-loan-section.personal-loan .nav-item .nav-btn {
+    padding: 15px 10px;
+    margin-bottom: 15px;
+  }
+  .business-loan-section .main-content form .nav-tabs {
+    margin-bottom: -70px;
+  }
+  .banner-section.contact .overlay {
+    background-size: 30%;
+  }
+  .banner-section.remittance .overlay .banner-content {
+    padding: 215px 0 190px;
+  }
+  .how-it-works .contant-area {
+    margin: 0;
+    padding: 15px 10px;
+  }
+  .how-it-works .contant-area .input-area {
+    padding: 15px 20px;
+  }
+  .how-it-works .abs-item {
+    margin: 70px 0;
+  }
+  .how-it-works .mid-contant:before {
+    top: -5%;
+    background-size: 70%;
+    left: 20%;
+  }
+  .banner-section.terms .overlay,
+  .banner-section.privacy-content .overlay,
+  .banner-section.faqs .overlay {
+    background-size: 30%;
+  }
+  .banner-section.terms .overlay {
+    background-size: 20%;
+  }
+  .how-it-works .mid-contant::after {
+    bottom: -18%;
+    left: 20%;
+    background-size: 70%;
+  }
+  .call-action.affiliate {
+    background-size: 40%, 100% 70%;
+  }
+  .banner-section.blog .overlay {
+    background-size: 25%;
+  }
+  .latest-articles.blog-contant .side-single .blog-item,
+  .latest-articles .blog-item.list {
+    display: grid;
+  }
+  .latest-articles.blog-contant .side-single .blog-item .img-area,
+  .latest-articles .blog-item.list .thumb {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 991px) {
+  // Normalize
+  h1,
+  h1 > a {
+    font-size: 57px;
+    line-height: 68.4px;
+    margin-top: -12px;
+  }
+
+  h2,
+  h2 > a {
+    font-size: 43px;
+    line-height: 51.6px;
+    margin-top: -8px;
+  }
+
+  h3,
+  h3 > a {
+    font-size: 32px;
+    line-height: 38.4px;
+    margin-top: -7px;
+  }
+
+  h4,
+  h4 > a {
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: -5px;
+  }
+
+  h5,
+  h5 > a {
+    font-size: 18px;
+    line-height: 22px;
+    margin-top: -3px;
+  }
+
+  h6,
+  h6 > a,
+  table thead tr th,
+  a,
+  p,
+  span,
+  li {
+    font-size: 16px;
+    line-height: 22px;
+  }
+
+  .section-header {
+    margin-top: -8px;
+    margin-bottom: 40px;
+  }
+
+  .title {
+    margin-bottom: 20px;
+  }
+
+  .xxlr {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .xlr {
+    font-size: 18px;
+    line-height: 25.5px;
+  }
+
+  // Header Responsive
+  .header-section .navbar-toggler {
+    display: inline-block;
+  }
+  .header-section .navbar .navbar-brand {
+    margin-top: -5px;
+    width: 35%;
+  }
+  .header-section .navbar .navbar-brand img {
+    max-width: initial;
+  }
+  .header-section .navbar .navbar-collapse .navbar-nav {
+    height: 200px;
+    margin: 20px 0;
+    overflow-y: auto;
+    margin-bottom: 10px;
+  }
+  .header-section
+    .navbar
+    .navbar-collapse
+    .navbar-nav
+    .nav-item
+    .dropdown-menu
+    .dropend
+    .dropdown-menu {
+    left: 60px;
+  }
+  .header-section .nav-item.main-navbar .main-menu .sub-navbar .sub-menu {
+    right: 0;
+  }
+  .header-section
+    .navbar
+    .navbar-collapse
+    .navbar-nav
+    .nav-item
+    .dropdown-menu.show {
+    display: inline-block;
+    margin-left: 130px;
+  }
+  .header-section
+    .navbar
+    .navbar-collapse
+    .navbar-nav
+    .nav-item
+    .dropdown-menu {
+    display: none;
+  }
+  .header-section .navbar .navbar-collapse .navbar-nav .nav-item {
+    padding: 8px 0;
+  }
+  .header-section .nav-item.dropdown .dropdown-menu {
+    position: initial;
+  }
+  .header-section .navbar .navbar-collapse .right-area .lang {
+    display: none !important;
+  }
+  .header-section .navbar .navbar-collapse .right-area {
+    margin-left: 0;
+  }
+  // End Header
+  .features-section .img-area {
+    text-align: center;
+    margin-top: 40px;
+    img {
+      width: 60%;
+    }
+  }
+  .cus-ord {
+    order: 1;
+  }
+  .card-section {
+    background-image: unset;
+  }
+  .solutions-business .cus-mar {
+    margin-bottom: -30px;
+  }
+  .solutions-business .single-box {
+    margin-bottom: 30px;
+    padding: 40px 20px;
+  }
+  .card-section {
+    .tab-content {
+      margin-bottom: 26px;
+    }
+    .nav-tabs {
+      margin-bottom: 30px;
+    }
+  }
+  .card-section .tab-content .cus-mar {
+    margin-bottom: -50px;
+  }
+  .financial-planning .cus-mar {
+    margin-top: 30px;
+  }
+  .personalized .img-area {
+    display: none;
+  }
+  .testimonials {
+    .single-slide {
+      display: grid;
+      .thumb {
+        margin: 0;
+        img {
+          margin: auto;
+          max-width: 40%;
+        }
+      }
+    }
+    .testimonials-carousel {
+      margin-bottom: -5px;
+    }
+  }
+  .latest-articles .blog-item {
+    margin-bottom: 40px;
+  }
+  .latest-articles .cus-mar {
+    margin-bottom: -40px;
+  }
+  .get-start .get-content img {
+    display: none;
+  }
+  .footer-section {
+    margin-top: 60px;
+  }
+  .about-section .img-area {
+    display: none;
+  }
+  .our-core-values .single-box .icon {
+    width: 80px;
+    height: 80px;
+    img {
+      width: 50%;
+    }
+  }
+  .map-section .map-area .element img {
+    width: 10%;
+  }
+  .map-section .map-area .element.pos-3 {
+    left: 32%;
+  }
+  .map-section .map-area .element.pos-1 {
+    top: 10%;
+    left: -3%;
+  }
+  .about-section .cus-mar {
+    margin-bottom: -20px;
+  }
+  .about-section .count-content {
+    margin-bottom: 20px;
+  }
+  .our-core-values .cus-mar {
+    margin-bottom: -20px;
+  }
+  .our-core-values .single-box {
+    margin-bottom: 20px;
+  }
+  .career-single .single-item {
+    margin-top: 40px;
+  }
+  .banner-section.account .overlay {
+    background-image: unset;
+  }
+  .more-feature .single {
+    padding-bottom: 70px;
+  }
+  .solutions-business .single-box .thumb {
+    width: 100px;
+    height: 100px;
+    img {
+      width: 45%;
+    }
+  }
+  .account-feature .cus-mar {
+    margin-bottom: -30px;
+  }
+  .account-feature .single-box {
+    margin-bottom: 30px;
+  }
+  .banner-section.inner-banner .overlay .banner-content .banner-mar {
+    margin-bottom: 30px;
+  }
+  .features-section .cus-ord {
+    order: 1;
+  }
+  .grow-confidence .cus-mar {
+    margin-bottom: -20px;
+  }
+  .grow-confidence .single-plan {
+    margin-bottom: 20px;
+  }
+  .how-works .nav-link .left-side::before {
+    left: calc(50% - 0px);
+  }
+  .how-works .nav-link.active .left-side::before {
+    height: 85px;
+  }
+  .how-works .nav-link .row {
+    margin-bottom: 5px;
+  }
+  .card-feature .overlay .single h2 {
+    width: 100%;
+  }
+  .card-feature .overlay .single {
+    margin-bottom: 30px;
+  }
+  .choose-card .tab-content {
+    margin-bottom: -30px;
+  }
+  .choose-card .single-card {
+    margin-bottom: 30px;
+  }
+  .choose-card .single-card img {
+    margin-bottom: 0;
+  }
+  .banner-section.card-banner .overlay {
+    background-image: unset;
+  }
+  .banner-section.product .overlay {
+    background-image: unset;
+  }
+  .personalized-solution img {
+    width: 50%;
+    margin-bottom: 30px;
+  }
+  .about-car-loan .cus-ord {
+    order: 1;
+  }
+  .about-car-loan .img-area {
+    text-align: center;
+    margin-bottom: 40px;
+    img {
+      width: 50%;
+    }
+  }
+  .banner-section.car-loans .overlay {
+    background-image: unset;
+  }
+  .features-section .img-area {
+    display: none;
+  }
+  .business-loan-section .main-content {
+    padding: 60px 50px;
+  }
+  .security-section img {
+    width: 50%;
+    margin-bottom: 30px;
+  }
+  .counter-section .cus-ord {
+    order: 1;
+    margin-bottom: -30px;
+  }
+  .counter-section .single-box:last-child {
+    margin-bottom: 30px;
+  }
+  .financial-planning.how-works-business .right-box {
+    display: none;
+  }
+  .banner-section.business-loan .overlay {
+    background-image: unset;
+  }
+  .banner-section .overlay {
+    background-image: unset;
+  }
+  .loan-calculation .content-box {
+    margin-top: 30px;
+  }
+  .banner-section.educations-loan .overlay {
+    background-image: unset;
+  }
+  .counter-educations .img-area {
+    display: none;
+  }
+  .business-loan-section.personal-loan .main-content {
+    padding: 60px 80px;
+  }
+  .business-loan-section .main-content form .nav-tabs {
+    margin-bottom: -20px;
+  }
+  .how-it-works .mid-contant::after {
+    bottom: -45%;
+    left: 20%;
+    background-size: 45%;
+  }
+  .how-it-works .mid-contant:before {
+    background-size: 45%;
+  }
+  .banner-section.terms .overlay,
+  .banner-section.privacy-content .overlay,
+  .banner-section.faqs .overlay,
+  .banner-section.remittance .overlay {
+    background-image: unset;
+  }
+  .more-feature.remittance .content-area {
+    padding: 20px;
+    .img-area {
+      min-width: 70px;
+      min-height: 70px;
+      margin-right: 15px;
+      img {
+        width: 50%;
+      }
+    }
+  }
+  .banner-section.affiliate .bottom-box {
+    background-image: unset;
+    margin-top: -112px;
+  }
+  .banner-section.affiliate .bottom-box .main-content {
+    text-align: center;
+    img {
+      width: 70%;
+    }
+  }
+  .banner-section.affiliate .bottom-box .main-content .mid-side::before {
+    left: -35%;
+    animation: unset;
+  }
+  .banner-section.affiliate .bottom-box .main-content .mid-side::after {
+    right: -35%;
+    animation: unset;
+  }
+  .banner-section.affiliate .bottom-box .main-content .mid-side {
+    width: 110px;
+    height: 110px;
+  }
+  .latest-articles.blog-contant .nav-tabs .cmn-btn {
+    margin-bottom: 15px;
+  }
+  .latest-articles.blog-contant.grid .blog-item-area .blog-item {
+    flex: 0 0 calc(100% / 1 - 15px);
+    -ms-flex: 0 0 calc(100% / 1 - 15px);
+    max-width: calc(100% / 1 - 15px);
+  }
+  .blog-single .blog-contant ul li::before {
+    top: 5px;
+  }
+  .sign-in-up {
+    background-image: unset;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer-section .footer-bottom {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    .left {
+      order: 1;
+      margin-top: 15px;
+    }
+  }
+  .footer-section .footer-box .social-link {
+    margin-top: 15px;
+  }
+  .banner-section .overlay .banner-content {
+    padding: 200px 0 190px;
+  }
+  .banner-section.inner-banner .overlay .banner-content {
+    padding: 170px 0 50px;
+  }
+
+  .banner-section .partner .partner-box {
+    padding: 30px 0;
+  }
+  .our-journey .journey-carousel .single-box {
+    padding: 20px;
+  }
+  .our-team .nav-tabs {
+    justify-content: center;
+  }
+  .our-team .nav-tabs .nav-item .nav-link {
+    margin: 10px;
+  }
+  .map-section .map-area .element .details {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    z-index: 2;
+  }
+  .map-section .map-area .element {
+    .details {
+      visibility: hidden;
+    }
+    &:hover {
+      .details {
+        visibility: visible;
+      }
+    }
+  }
+  .map-section .map-area .element.pos-1 {
+    top: calc(50% - 160px);
+    left: calc(0% - 50px);
+  }
+  .map-section .map-area .element.pos-2 {
+    top: calc(50% - 160px);
+    right: calc(0% - 15px);
+    z-index: 1;
+  }
+  .map-section .map-area .element.pos-3 {
+    left: calc(50% - 140px);
+  }
+  .banner-section.career-single .overlay {
+    background-image: unset;
+  }
+  .career-single .single-area ul li {
+    align-items: flex-start;
+    &::before {
+      top: 5px;
+    }
+  }
+  .career-single .single-area ul {
+    margin-left: 30px;
+  }
+  .slick-arrow {
+    width: 30px !important;
+    height: 30px !important;
+    i {
+      font-size: 14px;
+    }
+  }
+  .how-works .tab-content {
+    display: none;
+  }
+  .how-works .nav-link .left-side {
+    display: flex;
+    justify-content: center;
+  }
+  .how-works .nav-link.active .left-side::before {
+    height: 65px;
+  }
+  .how-works .nav-link .left-side .number {
+    width: 50px;
+    height: 50px;
+  }
+  .how-works .nav-link .left-side::before {
+    top: 60px;
+  }
+  .how-works .nav-link.active .left-side::before {
+    height: 80px;
+  }
+  .banner-section.account-details .overlay {
+    background-image: unset;
+  }
+  .how-works .nav-link.last.active {
+    margin-bottom: -20px;
+  }
+  .how-works .nav-link.last {
+    margin-bottom: -75px;
+  }
+  .call-action.card-page {
+    background-size: 100% 80%;
+  }
+  .call-action.second {
+    background-size: cover;
+  }
+  .call-action .main-content {
+    padding: 50px 15px;
+  }
+  .card-feature .overlay .img-area img {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+  .card-feature .overlay .slick-list {
+    padding-bottom: 20px;
+  }
+  .card-feature .overlay .slick-arrow.slick-next {
+    left: calc(50% - -10px);
+  }
+  .card-feature .overlay .slick-arrow.slick-prev {
+    left: calc(50% - 60px);
+  }
+  .apply-for-loan .overlay .form-content .section-header {
+    width: 100%;
+  }
+  .business-loan-section .main-content form .nav-tabs .cmn-btn {
+    padding: 10px 20px;
+  }
+  .apply-for-loan.home-loan::after {
+    display: none;
+  }
+  .testimonials-section .single-slide {
+    margin-bottom: 40px;
+  }
+  .apply-for-loan.educations .checkbox_wrapper {
+    margin-right: 30px;
+  }
+  .call-action.educations .main-content form .bottom-area .btn-area {
+    text-align: start !important;
+    margin-top: 30px;
+  }
+  .banner-section.personal-loan .overlay {
+    background-image: unset;
+  }
+  .business-loan-section.personal-loan .main-content {
+    padding: 60px 40px;
+  }
+  .business-loan-section .main-content form .ui-widget-content {
+    margin: 20px 0 35px;
+  }
+  .business-loan-section.personal-loan .nav-item .nav-btn {
+    margin: 15px;
+  }
+  .banner-section.contact .overlay {
+    background-image: unset;
+  }
+  .banner-section.inner-banner.remittance .overlay .banner-content {
+    padding: 170px 0 160px;
+  }
+  .banner-section.affiliate .bottom-box .main-content img {
+    width: 50%;
+  }
+  .banner-section.affiliate .bottom-box {
+    margin-top: -66px;
+  }
+  .banner-section.affiliate .bottom-box .main-content .mid-side {
+    width: 145px;
+    height: 110px;
+  }
+  .banner-section.affiliate .bottom-box .main-content {
+    margin-bottom: 30px;
+  }
+  .how-it-works .abs-contant .contant-bg {
+    position: inherit;
+    width: 75%;
+  }
+  .how-it-works .mid-contant {
+    &:before,
+    &:after {
+      display: none;
+    }
+  }
+  .how-it-works .text-area .img-area {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .how-it-works .text-area {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .how-it-works .mid-contant .cus-ord {
+    order: 1;
+  }
+  .how-it-works .abs-item {
+    margin: 0;
+  }
+  .latest-articles.blog-contant .side-area {
+    margin-top: 40px;
+  }
+  .banner-section.blog .overlay {
+    background-image: unset;
+  }
+  .header-section.register .navbar {
+    justify-content: center !important;
+    .navbar-brand {
+      margin-bottom: 20px;
+    }
+  }
+  .sign-in-up .form-content {
+    padding: 60px 0 !important;
+  }
+  .sign-in-up form .single-input .phone-number input {
+    padding-left: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  h1,
+  h1 > a {
+    font-size: 40px;
+    line-height: 46px;
+    margin-top: -7px;
+  }
+  h2,
+  h2 > a {
+    font-size: 30px;
+    line-height: 36px;
+    margin-top: -6px;
+  }
+  h3,
+  h3 > a {
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: -5px;
+  }
+  h4,
+  h4 > a {
+    font-size: 18px;
+    line-height: 22px;
+    margin-top: -3px;
+  }
+  a,
+  p,
+  span,
+  li,
+  .cmn-btn,
+  thead tr th,
+  tbody tr th,
+  tbody tr td,
+  input,
+  label,
+  textarea,
+  h6,
+  h6 > a {
+    font-size: 15px;
+    line-height: 19px;
+  }
+
+  select {
+    padding: 10px 5px !important;
+  }
+
+  .section-header {
+    margin-top: -5px;
+    margin-bottom: 30px;
+  }
+  .title {
+    margin-bottom: 15px;
+  }
+  .xxlr {
+    font-size: 18px;
+    line-height: 25.5px;
+  }
+  .xlr {
+    font-size: 16px;
+    line-height: 22.4px;
+  }
+  .header-section .navbar {
+    padding: 20px 15px;
+  }
+  .faqs-section .accordion .accordion-item .accordion-button::before {
+    width: 30px;
+    height: 30px;
+  }
+  .faqs-section .accordion .accordion-item .accordion-button::after,
+  .faqs-section .accordion .accordion-item .accordion-button.collapsed::after {
+    width: 15px;
+    height: 15px;
+    background-size: 100%;
+    right: 25px;
+    position: absolute;
+  }
+  .faqs-section .accordion .accordion-item .accordion-button::before,
+  .faqs-section .accordion .accordion-item .accordion-button.collapsed::before {
+    right: 18px;
+  }
+  .faqs-section .accordion .accordion-item .accordion-button {
+    padding: 15px;
+    padding-right: 60px;
+  }
+  .faqs-section
+    .accordion
+    .accordion-item
+    .accordion-collapse
+    .accordion-body
+    p {
+    padding: 15px 0;
+  }
+  .faqs-section .accordion .accordion-item .accordion-collapse .accordion-body {
+    padding: 0 15px;
+  }
+  .footer-section .footer-box li a::before {
+    background-size: 85%;
+  }
+  .footer-section .footer-box li a:hover {
+    padding-left: 25px;
+  }
+  .footer-section .footer-box li a:hover::before {
+    left: 10px;
+  }
+  .footer-section .footer-bottom .right .cus-bor {
+    margin-right: 5px;
+    padding-right: 10px;
+  }
+  .banner-section .overlay .banner-content {
+    padding: 180px 0 150px;
+  }
+  .testimonials .single-slide .top-content {
+    margin-bottom: 25px;
+  }
+  .map-section .map-area .element.pos-1 {
+    top: calc(50% - 150px);
+    left: calc(0% - 30px);
+  }
+  .map-section .map-area .element.pos-3 {
+    left: calc(50% - 128px);
+  }
+  .our-team .nav-tabs .nav-item .nav-link {
+    margin: 10px;
+    padding: 10px 15px;
+  }
+  .how-works .nav-link .left-side .number {
+    width: 40px;
+    height: 40px;
+  }
+  .how-works .nav-link .left-side::before {
+    top: 45px;
+    height: 35px;
+  }
+  .how-works .nav-link.active .left-side::before {
+    height: 65px;
+  }
+
+  .how-works .nav-link.last {
+    margin-bottom: -30px;
+  }
+  .how-works .nav-link.last.active {
+    margin-bottom: -20px;
+  }
+  .call-action.card-page .single {
+    margin-bottom: 30px;
+  }
+  .call-action.card-page .main-content .bottom-area {
+    margin-top: -30px;
+  }
+  .apply-for-loan .overlay .form-content .col-6 {
+    width: 100%;
+  }
+  .business-loan-section .main-content form .nav-tabs .cmn-btn {
+    margin-bottom: 20px;
+  }
+  .business-loan-section .main-content form .ui-slider-handle.ui-state-default,
+  .loan-calculation .ui-slider-handle.ui-state-default,
+  .business-loan-section .main-content form .ui-slider-handle.ui-state-default {
+    width: 25px;
+    height: 25px;
+    top: -10px;
+  }
+  .business-loan-section .main-content form .nav-tabs .cmn-btn {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .loan-calculation .radio-area .single-radio .checkmark {
+    top: -3px;
+  }
+  .call-action.card-page.educations {
+    background-size: 150% 80%;
+  }
+  .call-action.educations .main-content .single-input .single-radio .checkmark {
+    top: -2px;
+  }
+  .apply-for-loan .overlay .form-content {
+    padding: 30px 15px;
+  }
+  .call-action.educations .main-content {
+    padding: 30px 15px;
+  }
+  .our-products .content-area .img-area {
+    margin-right: 15px;
+  }
+  .our-products .content-area .text-area h5 {
+    margin-bottom: 12px;
+  }
+  .account-feature .single-box h5 {
+    margin: 12px 0 9px;
+  }
+  .business-loan-section.personal-loan .main-content {
+    padding: 40px 15px;
+  }
+  .banner-section.remittance .bottom-box .form-content .form-bottom .currency {
+    margin: 19px 0 15px;
+  }
+  .banner-section.affiliate .bottom-box .main-content .mid-side::after,
+  .banner-section.affiliate .bottom-box .main-content .mid-side::before {
+    display: none;
+  }
+  .blog-single .blog-contant ul li::before {
+    top: 4px;
+    width: 10px;
+    height: 10px;
+  }
+  .faqs-section .nav-tabs .nav-item {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .banner-section .overlay .banner-content .bottom-area {
+    display: inline-grid;
+  }
+  .banner-section .overlay .banner-content .bottom-area .second {
+    margin-top: 20px;
+  }
+  .call-action .bottom-area .second {
+    margin-top: 20px !important;
+  }
+  .call-action .main-content {
+    padding: 50px 20px;
+  }
+  .map-section .map-area .element.pos-2 {
+    top: calc(50% - 115px);
+    right: calc(20% - 135px);
+  }
+  .map-section .map-area .element.pos-1 {
+    left: calc(20% - 145px);
+    top: calc(50% - 130px);
+  }
+  .map-section .map-area .element img {
+    width: 5%;
+  }
+  .banner-section.about .overlay {
+    background-image: unset;
+  }
+  .career-single .single-area .single-sub {
+    margin-right: 15px;
+    padding-right: 15px;
+  }
+  .more-feature .single img {
+    display: none;
+  }
+  .how-works .nav-link.active .row {
+    margin-bottom: 20px;
+  }
+  .how-works .nav-link.last.active {
+    margin-bottom: -10px;
+  }
+  .how-works .nav-link.last {
+    margin-bottom: -60px;
+  }
+  .business-loan-section .main-content form .nav-tabs {
+    justify-content: center !important;
+  }
+  .banner-section.remittance .bottom-box .form-content .col-6 {
+    width: 100%;
+  }
+  .banner-section.affiliate .bottom-box .main-content .mid-side {
+    min-width: 90px;
+    height: initial;
+    width: initial;
+    min-height: 90px;
+  }
+}
+
+@media (max-width: 375px) {
+  .footer-section .col-8,
+  .footer-section .col-6 {
+    width: 100% !important;
+  }
+  .how-works .nav-link.last.active {
+    margin-bottom: 0px;
+  }
+  .how-works .nav-link.last {
+    margin-bottom: -90px;
+  }
+  .business-loan-section .main-content {
+    padding: 50px 10px;
+  }
+  .business-loan-section .main-content form .range-amount input {
+    // width: 30%;
+    width: 100%;
+  }
+  .banner-section.affiliate .bottom-box {
+    margin-top: -45px;
+  }
+  .banner-section.affiliate .bottom-box .main-content img {
+    width: 75%;
+  }
+  .latest-articles .blog-item.list .thumb {
+    overflow: hidden;
+    img {
+      width: 100%;
+    }
+  }
+  .latest-articles .blog-item .content .info {
+    display: grid;
+  }
+  .latest-articles .blog-item .content .item.cus-bor {
+    border: none;
+  }
+  .latest-articles.blog-contant .pagination li .page-link {
+    width: 35px;
+    height: 35px;
+    margin: 0 5px;
+  }
+  .sign-in-up .form-content form .col-6 {
+    width: 100% !important;
+  }
+  .header-section.register .right-area {
+    margin-left: 15px;
+    .cmn-btn {
+      // padding: 10px 20px 15px;
+      padding: 10px 20px 10px;
+    }
+  }
+}
